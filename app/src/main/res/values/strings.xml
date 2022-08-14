@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">one piece-App</string>
+    <string name="anime1">luffy</string>
+    <string name="anime2">roronoa-zoro</string>
+    <string name="anime3">Kurapika</string>
+    <string name="anime4">Irumi</string>
+    <string name="anime5">Zeno</string>
+    <string name="anime6">Gon Freecs</string>
+    <string name="anime7">Killua Zoldyck</string>
+</resources>

@@ -1,4 +1,4 @@
-# Project-2-RecyclerView-App
+# HunterXHunter-App
 
 
 ## Description 
@@ -26,3 +26,6 @@ Create an app that displays a list of data using RecyclerView library. Use local
 
 ## Sample Project  
 [Athkar App](https://github.com/shaima-alghamdi-tuwaiq/Athkar-App)
+
+## Image
+<img width="355" alt="Screen Shot 1444-01-16 at 12 24 02 AM" src="https://user-images.githubusercontent.com/83320125/184511228-326dc8e3-0c64-4656-8fb0-4272152f1c9d.png">
