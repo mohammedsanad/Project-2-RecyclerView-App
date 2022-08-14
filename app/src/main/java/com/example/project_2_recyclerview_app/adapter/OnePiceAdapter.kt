@@ -11,11 +11,11 @@ import com.example.project_2_recyclerview_app.R
 import com.example.project_2_recyclerview_app.model.Anime
 
 
-class HunterXHunterAdapter(
+class OnePiceAdapter(
     private val dataset: List<Anime>,
     private val context: Context
 )
-    : RecyclerView.Adapter<HunterXHunterAdapter.AthkarViewHolder>() {
+    : RecyclerView.Adapter<OnePiceAdapter.AthkarViewHolder>() {
 
     class AthkarViewHolder(private val view : View) : RecyclerView.ViewHolder(view){
         val textView : TextView = view.findViewById(R.id.item_title)
