@@ -1,4 +1,4 @@
-# HunterXHunter-App
+# One Piece-App
 
 
 ## Description 
@@ -28,4 +28,5 @@ Create an app that displays a list of data using RecyclerView library. Use local
 [Athkar App](https://github.com/shaima-alghamdi-tuwaiq/Athkar-App)
 
 ## Image
-<img width="355" alt="Screen Shot 1444-01-16 at 12 24 02 AM" src="https://user-images.githubusercontent.com/83320125/184511228-326dc8e3-0c64-4656-8fb0-4272152f1c9d.png">
+![Screenshot_ Project-2-RecyclerView-App ](https://user-images.githubusercontent.com/42320061/184528007-094b10f9-2a97-4a9b-91f2-c484848a68fa.png)
+
