@@ -3,8 +3,10 @@
     <string name="anime1">luffy</string>
     <string name="anime2">roronoa-zoro</string>
     <string name="anime3">marco</string>
-    <string name="anime4">shanks</string>
-    <string name="anime5">sanji</string>
-    <string name="anime6">franky</string>
-    <string name="anime7">kido</string>
+    <string name="anime4">Kido</string>
+    <string name="anime5">franky</string>
+    <string name="anime6">shanks</string>
+    <string name="anime7">Law</string>
 </resources>
+
+
